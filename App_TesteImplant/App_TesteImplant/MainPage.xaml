@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:App_TesteImplant"
              x:Class="App_TesteImplant.MainPage">
 
-	<Label Text="Primeiro teste 123" 
+	<Label Text="Primeiro teste 123 testando" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
